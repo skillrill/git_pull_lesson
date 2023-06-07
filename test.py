@@ -1,2 +1,2 @@
-print('Hello, World!')
+print('Hello, Friends!')
 friends = ['Bob', 'Ann']
